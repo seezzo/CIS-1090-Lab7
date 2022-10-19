@@ -1,0 +1,12 @@
+{
+    "name": "cis-1090-lab7",
+    "version": "1.0.0",
+    "author": "bkuker <bill.kuker@castleton.edu>",
+    "type": "module",
+    "scripts": {
+        "test": "mocha"
+    },
+    "dependencies": {
+        "mocha": "^10.1.0"
+    }
+}
