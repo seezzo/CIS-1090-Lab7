@@ -6,8 +6,8 @@ import assert from "assert";
 
 const searches = {
     "Linear": linear,
-    "Indexed": indexed,
-    "Binary": binary
+    //"Indexed": indexed,
+    //"Binary": binary
 }
 
 const goodWords = [
